@@ -1,0 +1,22 @@
+{
+  "name": "nofood.api",
+  "version": "1.0.0",
+  "description": "api feita em node para utilizar do app em ionic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMM182/PROJETO-UDEMY-FOOD.git"
+  },
+  "author": "gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMM182/PROJETO-UDEMY-FOOD/issues"
+  },
+  "homepage": "https://github.com/GabrielMM182/PROJETO-UDEMY-FOOD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
